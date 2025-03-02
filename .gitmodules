@@ -7,3 +7,6 @@
 [submodule "tugaslaravelacara7"]
 	path = tugaslaravelacara7
 	url = git@github.com:NatanNet/tugaslaravelacara7.git
+[submodule "tugaslaravelacara8"]
+	path = tugaslaravelacara8
+	url = git@github.com:NatanNet/tugaslaravelacara8.git
