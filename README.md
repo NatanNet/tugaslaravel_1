@@ -68,3 +68,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Daftar Tugas Laravel
 - [Tugas Acara 5-6](https://github.com/NatanNet/tugaslaravelacara5-6)
 - [Tugas Acara 7-8](https://github.com/NatanNet/tugaslaravelacara7-8)
+- [Tugas Acara 13-16](https://github.com/NatanNet/tugaslaravelacara13-16)
