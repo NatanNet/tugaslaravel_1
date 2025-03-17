@@ -19,3 +19,6 @@
 [submodule "tugaslaravelacara13-16"]
 	path = tugaslaravelacara13-16
 	url = https://github.com/NatanNet/tugaslaravelacara13-16.git
+[submodule "tugaslaravel17"]
+	path = tugaslaravel17
+	url = https://github.com/NatanNet/tugaslaravel17.git
