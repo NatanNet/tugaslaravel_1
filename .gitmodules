@@ -22,3 +22,6 @@
 [submodule "tugaslaravel17"]
 	path = tugaslaravel17
 	url = https://github.com/NatanNet/tugaslaravel17.git
+[submodule "tugaslaravel21-22"]
+	path = tugaslaravel21-22
+	url = https://github.com/NatanNet/tugaslaravel21-22
